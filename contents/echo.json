@@ -1,0 +1,553 @@
+[
+  {
+    "question": "Bán dâm theo quy định của Pháp lệnh phòng chống mại dâm là gì?",
+    "answer": [
+      "Là hành vi giao cấu của một người với người khác để được trả tiền hoặc lợi ích vật chất khác."
+    ]
+  },
+  {
+    "question": "Một người để được coi là chủ sở hữu một tác phẩm chỉ cần có quyền nào sau đây đối với tác phẩm đó?",
+    "answer": ["Quyền đứng tên với tư cách là tác giả trên tác phẩm"]
+  },
+  {
+    "question": "Tham gia xây dựng tổ chức Đảng, chính quyền, đoàn thể, quần chúng tại cơ sở vững mạnh. Được xác định là một trong những:",
+    "answer": ["Nội dung xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc"]
+  },
+  {
+    "question": "Khái niệm \"Phần đường xe chạy\" được hiểu như thế nào là đúng?",
+    "answer": [
+      "Là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại"
+    ]
+  },
+  {
+    "question": "Nhiệm vụ, quyền hạn của Ủy ban quốc gia về Thanh niên Việt Nam do ai quy định?",
+    "answer": ["Thủ tướng Chính phủ"]
+  },
+  {
+    "question": "Giảng viên A cung cấp tư liệu và hướng dẫn cho sinh viên B làm luận văn tốt nghiệp. A cũng đứng tên với tư cách là giảng viên hướng dẫn trên luận văn tốt nghiệp trên. Hỏi: A có được coi là đồng tác giả của tác phẩm nói trên không?",
+    "answer": ["Có, vì A đã góp công rất lớn để B sáng tạo ra tác phẩm."]
+  },
+  {
+    "question": "Theo Luật Giáo dục 2019, Cơ quan nào có chính sách tín dụng ưu đãi về lãi suất, điều kiện và thời hạn vay tiền để người học có điều kiện học tập?",
+    "answer": ["Nhà nước"]
+  },
+  {
+    "question": "Nội dung hợp tác quốc tế về thanh niên bao gồm?",
+    "answer": ["Tất cả nội dung trên"]
+  },
+  {
+    "question": "Khái niệm \"Làn đường\" được hiểu như thế nào là đúng?",
+    "answer": [
+      "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn"
+    ]
+  },
+  {
+    "question": "Tại sao phải ngăn chặn tệ nạn mại dâm?",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  { "question": "Thuốc lắc là dạng ma tuý gì?", "answer": ["Ma tuý tổng hợp"] },
+  {
+    "question": "Theo Luật Giáo dục 2019,Tín chỉ là?",
+    "answer": [
+      "Đơn vị dùng để đo lường khối lượng kiến thức, kỹ năng và kết quả học tập đã tích lũy được trong một khoảng thời gian nhất định."
+    ]
+  },
+  {
+    "question": "Trong các hành vi sau đây, hành vi nào bị nghiêm cấm theo Luật Phòng chống ma túy?",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  {
+    "question": "Doanh nghiệp trong nước và ngoài nước cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng tại Việt Nam có trách nhiệm",
+    "answer": [
+      "Xác thực thông tin khi người dùng đăng ký tài khoản số; bảo mật thông tin, tài khoản của người dùng; cung cấp thông tin người dùng cho lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an khi có yêu cầu bằng văn bản để phục vụ điều tra, xử lý hành vi vi phạm pháp luật về an ninh mạng"
+    ]
+  },
+  {
+    "question": "Cơ quan nào có trách nhiệm xây dựng và triển khai hoạt động phổ biến kiến thức, nâng cao nhận thức về an ninh mạng cho cơ quan, tổ chức, cá nhân của địa phương?",
+    "answer": ["Ủy ban nhân dân cấp tỉnh"]
+  },
+  {
+    "question": "Theo Luật An ninh mạng năm 2018, Thông tin trên không gian mạng có nội dung tuyên truyền chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam bao gồm:",
+    "answer": ["Tất cả đáp áp trên"]
+  },
+  {
+    "question": "Lực lượng bảo vệ an ninh mạng bao gồm những lực lượng nào sau đây?",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  {
+    "question": "Thông tin trên không gian mạng có nội dung kích động gây bạo loạn, phá rối an ninh, gây rối trật tự công cộng bao gồm:",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  {
+    "question": "Luật giáo dục quốc phòng và an ninh năm 2013 (Luật số: 30/2013/QH13) nghiêm cấm các hành vi nào sau đây?",
+    "answer": ["Tất cả các hành vi trên"]
+  },
+  {
+    "question": "Tác hại của thuốc lá là?",
+    "answer": [
+      "Ảnh hưởng có hại của việc sản xuất, sử dụng thuốc lá gây ra cho sức khỏe con người, môi trường và sự phát triển kinh tế - xã hội"
+    ]
+  },
+  {
+    "question": "Theo luật An ninh mạng 2018, đâu là đối tượng kiểm tra an ninh mạng đối với hệ thống thông tin của cơ quan, tổ chức không thuộc Danh mục hệ thống thông tin quan trọng về an ninh quốc gia?",
+    "answer": [
+      "Hệ thống phần cứng, phần mềm, thiết bị số được sử dụng trong hệ thống thông tin; Thông tin được lưu trữ, xử lý, truyền đưa trong hệ thống thông tin; hệ thống mạng của các nhà đầu tư trong nước và nước ngoài"
+    ]
+  },
+  {
+    "question": "Tuổi tối thiểu đối với người điều khiển xe gắn máy có dung tích dưới 50cm3 là bao nhiêu?",
+    "answer": ["16"]
+  },
+  {
+    "question": "Tổ chức nào dưới đây là tổ chức chính trị-xã hội của thanh niên Việt Nam?",
+    "answer": ["Đoàn Thanh niên Cộng sản Hồ Chí Minh"]
+  },
+  {
+    "question": "Khi điều khiển xe mô tô, xe máy tham gia giao thông cần phải có những loại giấy tờ gì?",
+    "answer": ["Tất cả các phương án trả lời đều đúng"]
+  },
+  {
+    "question": "Luật giáo dục quốc phòng và an ninh năm 2013 (Luật số: 30/2013/QH13) quy định: Quyền và trách nhiệm của công dân về giáo dục quốc phòng và an ninh như thế nào?",
+    "answer": [
+      "Công dân có quyền và trách nhiệm học tập, nghiên cứu để nắm vững kiến thức quốc phòng và an ninh."
+    ]
+  },
+  {
+    "question": "Giáo dục, nâng cao cảnh giác cách mạng, phát huy truyền thống yêu nước của Nhân dân tham gia phòng ngừa đấu tranh chống mọi âm mưu hoạt động của các thế lực thù địch trong và ngoài nước. Được xác định là một trong những;",
+    "answer": ["Nội dung xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc"]
+  },
+  {
+    "question": "Khái niệm \"An ninh mạng\" là:",
+    "answer": [
+      "Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân"
+    ]
+  },
+  {
+    "question": "Luật An ninh mạng nghiêm cấm việc sử dụng không gian mạng để thực hiện hành vi nào dưới đây",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  {
+    "question": "Luật giáo dục quốc phòng và an ninh năm 2013 (Luật số: 30/2013/QH13) áp dụng với đối tượng nào sau đây?",
+    "answer": ["Công dân Việt Nam và người nước ngoài sinh sống tại Việt Nam"]
+  },
+  {
+    "question": "Độ tuổi để có thể xử lý vi phạm hành chính theo quy định của Luật xử lý vi phạm hành chính được xác định là bao nhiêu?",
+    "answer": ["Từ 14 tuổi trở lên vi phạm do cố ý."]
+  },
+  {
+    "question": "Theo quy định hiện hành, hành vi vi phạm nào dưới đây của người điều khiển xe máy ngoài việc bị phạt tiền, còn bị hình phạt bổ sung tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng?",
+    "answer": [
+      "Sử dụng điện thoại di động, thiết bị âm thanh (trừ thiết bị trợ thính)"
+    ]
+  },
+  {
+    "question": "Hành vi sử dụng trái phép chất ma túy thì bị xử lý hình sự với mức nào dưới đây?",
+    "answer": [
+      "Không bị xử lý hình sự về hành vi sử dụng trái phép chất ma túy"
+    ]
+  },
+  {
+    "question": "Người phát hiện, tố giác và đấu tranh trong phòng, chống mại dâm được đảm bảo các quyền lợi gì?",
+    "answer": [
+      "Được bảo vệ và giữ bí mật, nếu bị thiệt hại tài sản thì được đền bù. Nếu bị thương tích, tổn hại về sức khỏe hoặc bị thiệt hại về tính mạng thì được hưởng chế độ, chính sách theo quy định của pháp luật."
+    ]
+  },
+  {
+    "question": "Trên nguyên tắc, ai được coi là chủ sở hữu của tác phẩm khuyết danh đang trong thời hạn bảo hộ?",
+    "answer": ["Nhà nước."]
+  },
+  {
+    "question": "Lồng ghép nội dung của phong trào toàn dân bảo vệ an ninh Tổ quốc với các phong trào khác của nhà trường. Được xác định là một trong những:",
+    "answer": [
+      "Phương pháp xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc"
+    ]
+  },
+  {
+    "question": "Học sinh, sinh viên đang làm thủ tục nhập học mà vi phạm quy định về sản xuất, vận chuyển, tàng trữ, mua bán, tổ chức sử dụng, lôi kéo, cưỡng bức người khác sử dụng ma tuý thì bị nhà trường xử lý như thế nào?",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  {
+    "question": "Ngày hội \"Toàn dân bảo vệ an ninh Tổ quốc\" là:",
+    "answer": ["Ngày 19 tháng 8"]
+  },
+  {
+    "question": "Ma túy là chất được chiết xuất từ loại cây nào dưới đây?",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  {
+    "question": "Theo Luật Giáo dục 2019, Cơ quan nào ban hành hệ thống văn bằng giáo dục đại học và quy định văn bằng trình độ tương đương của một số ngành đào tạo chuyên sâu đặc thù?",
+    "answer": ["Chính phủ"]
+  },
+  {
+    "question": "Khi tham gia giao thông, người đi bộ phải thực hiện quy tắc giao thông nào?",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  {
+    "question": "Tội môi giới mại dâm có thể bị phạt bao nhiêu năm tù?",
+    "answer": ["6 tháng đến 20 năm"]
+  },
+  {
+    "question": "Trong các tác hại sau đây, tác hại nào do ma túy gây ra?",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  {
+    "question": "Mục đích trong thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia là",
+    "answer": [
+      "Nhằm nâng cao nhận thức, định hướng hành vi, thay đổi thói quen có hại để phòng, chống tác hại của rượu, bia đối với sức khỏe con người, gia đình, cộng đồng, an toàn giao thông, trật tự, an toàn xã hội, kinh tế và các vấn đề xã hội khác"
+    ]
+  },
+  {
+    "question": "Trong Luật giao thông đường bộ khái niệm \"Đường cao tốc\" được hiểu như thế nào là đúng?",
+    "answer": [
+      "Là đường chỉ dành riêng cho xe cơ giới chạy với tốc độ cao, có dải phân cách chia đường cho xe chạy theo hai chiều ngược nhau riêng biệt và không giao cắt cùng mức với đường khác;"
+    ]
+  },
+  {
+    "question": "Theo luật An ninh mạng năm 2018, Hệ thống thông tin quan trọng về an ninh quốc gia bao gồm?",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  {
+    "question": "Theo luật An ninh mạng năm 2018, Tội phạm mạng là?",
+    "answer": [
+      "Là hành vi sử dụng không gian mạng, công nghệ thông tin hoặc phương tiện điện tử để thực hiện hành vi phạm tội được quy định tại Bộ luật Hình sự"
+    ]
+  },
+  {
+    "question": "Những hành vi có tính chất bạo lực học đường có thể xâm hại tới quyền nào của nạn nhân?",
+    "answer": ["Tất cả các quyền trên."]
+  },
+  {
+    "question": "Đối tượng có thể được tuyển chọn vào lực lượng bảo vệ an ninh mạng?",
+    "answer": [
+      "Công dân Việt Nam có đủ tiêu chuẩn về phẩm chất đạo đức, sức khỏe, trình độ, kiến thức về an ninh mạng, an toàn thông tin mạng, công nghệ thông tin và có nguyện vọng"
+    ]
+  },
+  {
+    "question": "Không gian mạng quốc gia là gì?",
+    "answer": ["Là không gian mạng do Chính phủ xác lập, quản lý và kiểm soát"]
+  },
+  {
+    "question": "Hợp tác quốc tế về thanh niên phải bảo đảm nguyên tắc?",
+    "answer": [
+      "Bình đẳng, tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, phù hợp với pháp luật mỗi nước, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và thông lệ quốc tế."
+    ]
+  },
+  {
+    "question": "Khi gặp một đoàn xe hoặc một đoàn người có tổ chức thì người lái xe có được phép cho xe chạy cắt ngang hay không?",
+    "answer": ["Không được phép"]
+  },
+  {
+    "question": "Khi nhận được lệnh huy động tham gia cứu chữa đám cháy, bạn sẽ làm gì?",
+    "answer": [
+      "Nhanh chóng nhận lệnh, sử dụng các dụng cụ chữa cháy và thực hiện theo sự chỉ dẫn của lực lượng chữa cháy chuyên nghiệp"
+    ]
+  },
+  {
+    "question": "Chất gây nghiện là gì?",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  {
+    "question": "Xử lý hành vi vi phạm pháp luật về phòng, chống tác hại của rượu, bia như thế nào",
+    "answer": [
+      "Tổ chức, cá nhân có hành vi vi phạm pháp luật về phòng, chống tác hại của rượu, bia thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật"
+    ]
+  },
+  {
+    "question": "Thanh niên là công dân Việt Nam?",
+    "answer": ["Từ đủ 16 tuổi đến 30 tuổi."]
+  },
+  {
+    "question": "Khi say ma túy người nghiện sẽ rơi vào trạng thái nào?",
+    "answer": ["Ảo giác"]
+  },
+  {
+    "question": "Theo Luật Giáo dục 2019, Quy định chuẩn trình độ đào tạo đối với nhà giáo giảng dạy trình độ đại học có bằng tốt nghiệp?",
+    "answer": ["Thạc sỹ hoặc Tiến sỹ"]
+  },
+  {
+    "question": "Khi phát hiện tệ nạn ma túy cá nhân, gia đình có trách nhiệm gì?",
+    "answer": [
+      "Cung cấp nhanh chóng các thông tin về tệ nạn ma túy cho cơ quan công an hoặc cơ quan khác có thẩm quyền"
+    ]
+  },
+  {
+    "question": "Mua dâm theo quy định của Pháp lệnh phòng chống mại dâm là gì?",
+    "answer": [
+      "Là hành vi của người dùng tiền hoặc lợi ích vật chất khác trả cho người bán dâm để được giao cấu."
+    ]
+  },
+  {
+    "question": "Hành vi môi giới mại dâm là hành vi như thế nào?",
+    "answer": ["Dụ dỗ hoặc dẫn dắt người mại dâm"]
+  },
+  {
+    "question": "Nguyên nhân nào dưới đây gây nên tình trạng bạo lực học đường.",
+    "answer": [
+      "Do ảnh hưởng tiêu cực của xã hội, thiếu sự quan tâm của gia đình, bản thân học sinh, sinh viên ở vào độ tuổi chưa phát triển đầy đủ về tâm sinh lý."
+    ]
+  },
+  {
+    "question": "Pháp lệnh phòng, chống mại dâm có hiệu lực thi hành từ ngày, tháng, năm nào?",
+    "answer": ["Ngày 01 tháng 7 năm 2003"]
+  },
+  {
+    "question": "Vận động toàn dân tích cực tham gia chương trình quốc gia phòng chống tội phạm. Được xác định là một trong những:",
+    "answer": ["Nội dung xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc"]
+  },
+  {
+    "question": "Mại dâm là hành vi như thế nào?",
+    "answer": ["Là hành vi bán dâm và mua dâm"]
+  },
+  {
+    "question": "Nắm tình hình và xây dựng kế hoạch phát động phong trào toàn dân bảo vệ an ninh Tổ quốc. Được xác định là một trong những:",
+    "answer": [
+      "Phương pháp xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc"
+    ]
+  },
+  {
+    "question": "Bạo lực học đường gây ra tác hại gì?",
+    "answer": ["Gây ra tất cả các tác hại trên."]
+  },
+  {
+    "question": "Người có hành vi vi phạm được quy định trong Luật An ninh mạng năm 2018 thì bị xử lý như thế nào?",
+    "answer": [
+      "Tùy theo tính chất, mức độ vi phạm mà bị khiển trách, xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường"
+    ]
+  },
+  {
+    "question": "Biểu hiệu nào sau đây là biểu hiện thường thấy ở người đang nghiện ma túy?",
+    "answer": ["Tất cả các dấu hiệu nêu ra đều đúng"]
+  },
+  {
+    "question": "Theo Bộ luật hình sự 2015, Bộ luật số 100/2015/QH13, Điều 247. Tội trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy bị xử phạt với mức nào dưới đây?",
+    "answer": ["Từ 06 tháng đến 07 năm"]
+  },
+  {
+    "question": "Dấu hiệu nào sau đây có thể nhận biết người nghiện ma tuý?",
+    "answer": ["Răng vỡ vụn, mắt lờ đờ"]
+  },
+  {
+    "question": "Hành vi nào sau đây bị nghiêm cấm theo Pháp lệnh phòng chống mại dâm?",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  {
+    "question": "Học sinh, sinh viên đang học nghiện ma tuý, tự giác khai báo thì nhà trường xử lý như thế nào?",
+    "answer": [
+      "Cho phép người học nghỉ học một năm (12 tháng), bảo lưu kết quả học tập và giao cho gia đình người học để quản lý, tổ chức cai nghiện"
+    ]
+  },
+  {
+    "question": "Theo Luật Thanh niên 2020 thì?",
+    "answer": [
+      "Thanh niên là lực lượng xã hội to lớn, xung kích, sáng tạo, đi đầu trong công cuộc đổi mới, xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa; có vai trò quan trọng trong sự nghiệp công nghiệp hóa, hiện đại hóa đất nước, hội nhập quốc tế và xây dựng chủ nghĩa xã hội"
+    ]
+  },
+  {
+    "question": "Hình thức xử lý nào sau đây được áp dụng đối với người môi giới mại dâm?",
+    "answer": ["Truy cứu trách nhiệm hình sự"]
+  },
+  {
+    "question": "Trẻ em có quyền được bảo vệ, tiếp cận thông tin, tham gia hoạt động xã hội, vui chơi, giải trí, giữ bí mật cá nhân, đời sống riêng tư và các quyền khác khi tham gia trên không gian mạng hay không?",
+    "answer": ["Có"]
+  },
+  {
+    "question": "Tệ nạn ma túy được hiểu như thế nào?",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  {
+    "question": "Giáo dục quốc phòng và an ninh trong các Trường cao đẳng nghề, cơ sở giáo dục đại học là môn học được xác định như thế nào?",
+    "answer": [
+      "Giáo dục quốc phòng và an ninh trong trường cao đẳng nghề, cơ sở giáo dục đại học là môn học chính khóa."
+    ]
+  },
+  {
+    "question": "Theo Luật An ninh mạng năm 2018 thì Tài khoản số là thông tin dùng để làm gì?",
+    "answer": [
+      "Chứng thực, xác thực, bảo đảm, phân quyền sử dụng các ứng dụng, dịch vụ trên không gian mạng"
+    ]
+  },
+  {
+    "question": "Hình thức xử lý nào sau đây được áp dụng đối với người mua dâm?",
+    "answer": ["Cả a và b đều đúng"]
+  },
+  {
+    "question": "Bạo lực học đường ở Việt Nam là gì?",
+    "answer": [
+      "Là hiện tượng học sinh, sinh viên dùng hành vi mang tính bạo lực dể giải quyết mâu thuẫn"
+    ]
+  },
+  {
+    "question": "Doanh nghiệp trong nước và ngoài nước cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng tại Việt Nam có hoạt động thu thập, khai thác, phân tích, xử lý dữ liệu về thông tin cá nhân, dữ liệu về mối quan hệ của người sử dụng dịch vụ, dữ liệu do người sử dụng dịch vụ tại Việt Nam tạo ra phải lưu trữ dữ liệu này tại đâu?",
+    "answer": ["Tại Việt Nam"]
+  },
+  {
+    "question": "Anh N đi xe mô tô 2 bánh trên đường một chiều có một làn xe cơ giới và có biển báo hiệu khu vực đông dân cư, nhưng quan sát thấy đường vắng nên anh cho xe chạy với tốc độ 60km/h. Theo quy định hiện hành, hành vi vi phạm của anh N sẽ phải chịu mức phạt tiền nào dưới đây?",
+    "answer": ["Từ 600.000 đồng đến 1.000.000 đồng"]
+  },
+  {
+    "question": "Tham gia xây dựng tổ chức Đảng, chính quyền, đoàn thể quần chúng tại cơ sở vững mạnh. Được xác định là một trong những:",
+    "answer": ["Nội dung xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc"]
+  },
+  {
+    "question": "Điều khiển xe máy chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h sẽ bị phạt bao nhiêu tiền?",
+    "answer": ["Phạt tiền từ 200.000 đồng đến 300.000 đồng"]
+  },
+  {
+    "question": "Dựa vào tình huống sau: \"Khi đang xem tivi ở trong nhà, bất ngờ nghe thấy tiếng động mạnh phát ra ở ngoài đường trước nhà, bạn chạy ra thấy tai nạn giao thông xảy ra giữa hai xe mô tô và có người bị thương bất tỉnh nằm trên đường\". Hãy cho biết, hành động nào dưới đây không nên làm?",
+    "answer": [
+      "Đưa người bị nạn, phương tiện vào bên lề đường để không gây cản trở giao thông"
+    ]
+  },
+  {
+    "question": "Khái niệm \"Dải phân cách\" được hiểu như thế nào là đúng?",
+    "answer": ["Tất cả các phương án trả lời đều đúng"]
+  },
+  {
+    "question": "Pháp lệnh phòng chống mại dâm gồm bao nhiêu chương và bao nhiêu điều?",
+    "answer": ["6 chương và 41 điều"]
+  },
+  {
+    "question": "Tự giác chấp hành các quy định về bảo đảm an ninh trật tự của nhà trường và của địa phương nơi cư trú; Chấp hành tốt các quy định của địa phương; Tích cực tham gia các phong trào giữ gìn an ninh trật tự của địa phương luôn nêu cao ý thức cảnh giác, tích cực tham gia hoạt động phòng chống tội phạm. Được xác định là một trong những:",
+    "answer": [
+      "Trách nhiệm của Sinh viên trong phong trào toàn dân bảo vệ an ninh Tổ quốc"
+    ]
+  },
+  {
+    "question": "Tội cưỡng bức người khác sử dụng trái phép chất ma túy bị phạt tù với mức nào dưới đây?",
+    "answer": ["3 năm đến 7 năm"]
+  },
+  {
+    "question": "Nhà trường có trách nhiệm gì đối với hoạt động phòng chống mại dâm?",
+    "answer": ["Tất cả các trách nhiệm được nêu"]
+  },
+  {
+    "question": "Vận động toàn dân tích cực tham gia chương trình quốc gia phòng chống tội phạm. Được xác định là một trong những:",
+    "answer": ["Nội dung xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc"]
+  },
+  {
+    "question": "Ủy ban quốc gia về Thanh niên Việt Nam là?",
+    "answer": [
+      "Tổ chức phối hợp liên ngành, có chức năng tư vấn giúp Thủ tướng Chính phủ về công tác thanh niên"
+    ]
+  },
+  {
+    "question": "Theo Bộ luật hình sự 2015, Bộ luật số 100/2015/QH13, Điều 248 quy định Tội sản xuất trái phép chất ma túy. Theo đó, tội sản xuất trái pháp chất ma túy bị xử lý hình sự với mức nào dưới đây?",
+    "answer": ["Từ 02 năm đến chung thân hoặc tử hình"]
+  },
+  {
+    "question": "Anh H điều khiển xe máy điện chạy trong khu vực thị trấn, với tốc độ cho phép, để đảm bảo an toàn giao thông, anh H phải chủ động giữ khoảng cách an toàn phù hợp với xe chạy liền trước xe của mình",
+    "answer": [
+      "Với khoảng cách tùy thuộc vào mật độ phương tiện, tình hình giao thông thực tế"
+    ]
+  },
+  {
+    "question": "Có mấy loại dải phân cách?",
+    "answer": ["Tất cả các phương án trả lời đều đúng"]
+  },
+  {
+    "question": "Lực lượng chuyên trách bảo vệ an ninh mạng được bố trí tại đâu?",
+    "answer": ["Bộ Công an, Bộ Quốc phòng"]
+  },
+  {
+    "question": "Theo quy định của Luật phòng chống ma túy Nhà trường có trách nhiệm gì?",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  {
+    "question": "Trang thông tin điện tử, cổng thông tin điện tử hoặc chuyên trang trên mạng xã hội của cơ quan, tổ chức, cá nhân không được cung cấp, đăng tải, truyền đưa thông tin có nội dung nào dưới đây",
+    "answer": ["Tất cả các phương án trả lời đều đúng."]
+  },
+  {
+    "question": "Hành vi cố ý gây thương tích cho người khác (bắt nạt hoặc đánh nhau) với tỷ lệ bao nhiêu % thì bị truy cứu trách nhiệm hình sự?",
+    "answer": ["11% trở lên"]
+  },
+  {
+    "question": "Bạn hãy cho biết hành vi sử dụng nguồn lửa, các thiết bị điện tử hoặc các thiết bị, dụng cụ sinh lửa, sinh nhiệt khác ở những nơi có quy định cấm sẽ xử phạt hành chính như thế nào?",
+    "answer": ["Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng"]
+  },
+  {
+    "question": "Công dân từ bao nhiêu tuổi trở lên, đủ sức khoẻ có trách nhiệm tham gia vào đội dân phòng, đội phòng cháy và chữa cháy cơ sở được lập ở nơi cư trú hoặc nơi làm việc khi có yêu cầu?",
+    "answer": ["18 tuổi"]
+  },
+  {
+    "question": "Bình chữa cháy có ký hiệu MT3 là bình chữa cháy loại gì?",
+    "answer": ["Loại khí 3kg."]
+  },
+  {
+    "question": "Bình chữa cháy có ký hiệu MFZ5 là bình chữa cháy loại gì?",
+    "answer": ["Loại bột 5kg."]
+  },
+  {
+    "question": "Bình chữa cháy có ký hiệu MFZ3 là bình chữa cháy loại gì?",
+    "answer": ["Loại bột 3kg."]
+  },
+  {
+    "question": "Luật PCCC quy định một trong những biện pháp cơ bản đầu tiên trong công tác phòng cháy là gì?",
+    "answer": [
+      "Quản lý chặt chẽ và sử dụng an toàn các chất cháy, chất nổ, nguồn lửa nguồn nhiệt, thiết bị và dụng cụ sinh lửa, sinh nhiệt, chất sinh lửa, sinh nhiệt; đảm bảo các điều kiện an toàn về phòng cháy."
+    ]
+  },
+  {
+    "question": "Theo quy định Luật Phòng, chống bạo lực gia đình năm 2022, hành vi nào sau đây là hành vi bạo lực gia đình?",
+    "answer": ["Tất cả các đáp áp trên"]
+  },
+  {
+    "question": "Tháng hành động quốc gia phòng, chống bạo lực gia đình được tô chức vào tháng mấy hằng năm?",
+    "answer": ["Tháng 6 hằng năm"]
+  },
+  {
+    "question": "Luật Phòng, chống bạo lực gia đình năm 2022, quy định người bị bạo lực gia đình có quyền và trách nhiệm nào sau đây?",
+    "answer": ["Các nội dung nêu tại đáp án 1 và 2"]
+  },
+  {
+    "question": "Theo quy định Luật Phòng, chống bạo lực gia đình năm 2022, trách nhiệm của người có hành vi bạo lực gia đình được quy định như thế nào?",
+    "answer": ["Tất cả các phương án trên."]
+  },
+  {
+    "question": "Theo quy định Luật Phòng, chống bạo lực gia đình năm 2022, cá nhân khi phát hiện hành vi bạo lực gia đình có trách nhiệm nào sau đây?",
+    "answer": ["Các trách nhiệm nêu tại đáp án 1 và 3."]
+  },
+  {
+    "question": "Theo Nghị định 144/2021/NĐ-CP ngày 31/12/2021 của Chính phủ: hành vi đánh đập gây thương tích cho thành viên gia đình thì bị phạt vi phạm hành chính bao nhiêu tiền?",
+    "answer": ["Từ 5.000.000 đồng đến 10.000.000 đồng."]
+  },
+  {
+    "question": "Theo quy định Luật Phòng, chống bạo lực gia đình năm 2022, quy định cơ sở nào sau đây thực hiện trợ giúp phòng, chống bạo lực gia đình?",
+    "answer": ["Tất cả các phương án trên."]
+  },
+  {
+    "question": "Theo quy định tại Nghị định 144/2021/NĐ-CP ngày 31/12/2021 của Chính phủ, thì hành vi từ chối hoặc trốn tránh nghĩa vụ cấp dưỡng, chăm sóc con sau khi ly hôn nếu bị xử phạt vi phạm hành chính thì phạt bao nhiêu tiền?",
+    "answer": ["Từ 5.000.000 đồng đến 10.000.000 đồng."]
+  },
+  {
+    "question": "Theo quy định Luật Phòng, chống bạo lực gia đình năm 2022, trách nhiệm của chính quyền địa phương các cấp được quy định ở nội dung nào sau đây?",
+    "answer": ["Tất cả các phương án trên."]
+  },
+  {
+    "question": "Hành vi nhận tiền, sửa điểm thi là hành vi nào trong số các hành vi sau đây?",
+    "answer": [
+      "Lợi dụng chức vụ, quyền hạn trong khi thi hành nhiệm vụ, công vụ vì vụ lợi."
+    ]
+  },
+  {
+    "question": "Hành vi tham nhũng có thể xảy ra ở đâu?",
+    "answer": [
+      "Trong cơ quan, tổ chức, đơn vị khu vực nhà nước và doanh nghiệp, tổ chức khu vực ngoài nhà nước"
+    ]
+  },
+  {
+    "question": "Luật Phòng, chống tham nhũng năm 2018 có hiệu lực thì hành khi nào?",
+    "answer": ["01/7/2019"]
+  },
+  {
+    "question": "Những quy định mới của Luật Phòng, chống tham nhũng năm 2018 là?",
+    "answer": ["Cả 3 phương án trên"]
+  },
+  {
+    "question": "Hành vi trộm cắp tài sản của công dân vi phạm pháp luật gì?",
+    "answer": ["Vi phạm pháp luật hình sự"]
+  },
+  {
+    "question": "Người trộm cắp tài sản của người khác trị giá từ 2.000.000 đồng đến dưới 50.000.000 đồng, có thể bị phạt tù từ 06 tháng đến 03 năm nếu:",
+    "answer": ["Tất cả trường hợp ở trên"]
+  }
+]
